@@ -15,6 +15,7 @@ function App() {
       <div className='row'>
         <div className='col-5' id='player'>
           <h3 className='title'>What's on my coffee table?</h3>
+          <p className='player-text'>An app for musicians.</p>
           <Player /> <br></br>
           <div className='tags'>
           <Badge pill bg="primary">
@@ -47,7 +48,7 @@ function App() {
             </div>
             <br></br>
             <div className='container'>
-          <p className='player-text'>In the spring of 2018, I recorded this demo with my friend Orin Robichaud who taught me how to use a 4-track tape recorder in the process. In our tinkering, they explained to me that since a 4-track plays all tracks of the tape simultaneously, regular tapes with music and other content will play some of the tracks backwards. This sparked a great interest in me in experimenting with sampling some self-help tapes, recording abstract sounds backward and forward, and the extremely fun process of bouncing and layering the tracks to build up a whole experience. This culminated in the track "Nouveau Riche" and the outro of "Mercury Man". In a fun way, I could never retrace my steps and figure out how some of those sounds we made came to be, which made the process very electric, collaborative, and joyful.</p>
+          <p className='player-text'>In the spring of 2018, I recorded this demo with my friend Orin Robichaud who taught me how to use a 4-track tape recorder in the process. In our tinkering, they explained to me that since a 4-track plays all tracks of the tape simultaneously, regular tapes with music and other content will play some of the tracks backwards. This sparked a great interest in me in experimenting with sampling some self-help tapes, recording abstract sounds backward and forward, and the extremely fun process of bouncing and layering the tracks to build up a whole experience. Experimenting with this culminated in the unplanned track "Nouveau Riche" and the outro of "Mercury Man". In a fun way, I could never retrace my steps and figure out how some of those sounds we made came to be, which made the process very electric, collaborative, and joyful.</p>
           <p className='player-text'>The songs that were recorded for this demo were written between 2012 and 2015, each one a small turning point in my experimentations in songwriting. I have always found the recording process much less exciting than songwriting and performing, but having experimentation at the center of this process helped me to stay curious and focused. </p>
           </div>
 

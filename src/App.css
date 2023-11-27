@@ -6,6 +6,7 @@
 
 .title {
   color: white;
+  font-weight: 300;
 }
 #app {
   margin: 0;
@@ -77,4 +78,12 @@
 
 #kensington-book:hover {
   width: 189px;
+}
+
+.off-canvas-text {
+padding-top: 2rem;
+}
+
+.subtext {
+  font-size: small;
 }
