@@ -36,8 +36,7 @@ export const BlondeRedhead = () => {
         </Offcanvas.Header>
         <Offcanvas.Body>
         <a href="https://www.discogs.com/master/22457-Blonde-Redhead-Melody-Of-Certain-Damaged-Lemons"target="_blank" rel="noopener noreferrer"><img id="br-album" src={Blonde} alt='Pavillion of Dreams, by Harold Budd' width="200px"></img></a><br></br>
-          <p className='off-canvas-text'>Some text as placeholder. In real life you can have the elements you
-          have chosen. Like, text, images, lists, etc.</p>
+          <p className='off-canvas-text'>Listening to Blonde Redhead, specifically <i>Misery is a Butterfly</i>, has greatly influenced my songwriting. The song "Pound by Pound" on this demo came out of the time when I was listening to <i>Misery</i> pretty constantly. Before and during recording on the demo, I was listening to <i>Melody of Certain Damaged Lemons</i> quite a bit. Some favorite tracks on this album include "In Particular" and "Hated Because of Great Qualities".</p>
         </Offcanvas.Body>
       </Offcanvas>
     </div>
