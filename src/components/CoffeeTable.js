@@ -1,7 +1,7 @@
 import React from 'react'
 import TapeRecorder from "./TapeRecorder";
 import HaroldBudd from "./HaroldBudd";
-import { BlondeRedhead } from "./BlondeRedhead";
+import { KateBush } from "./KateBush";
 import HundredYearsBook from './HundredYearsBook';
 import KensingtonBook from './KensingtonBook';
 import Note from "./Note"
@@ -21,7 +21,7 @@ const CoffeeTable = () => {
                 <HaroldBudd />
             </div>
             <div className='col'>
-                <BlondeRedhead />
+                <KateBush />
             </div>
             <div className='col'>
                 <HundredYearsBook />

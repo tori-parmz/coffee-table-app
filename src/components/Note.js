@@ -22,7 +22,7 @@ const Note = () => {
     delay={{ show: 250, hide: 300 }}
     overlay={renderTooltip}
   >
-        <button className='item-button' onClick={handleShow}><img id='note' src={Lyrics} alt='Pavillion of Dreams, by Harold Budd' width="200px"></img></button>
+        <button className='item-button' onClick={handleShow}><img id='note' src={Lyrics} alt='First Sun song lyrics on notepaper' width="200px"></img></button>
        </OverlayTrigger>
        <Offcanvas show={show} onHide={handleClose} placement="end">
         <Offcanvas.Header closeButton>

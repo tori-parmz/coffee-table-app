@@ -1,11 +1,6 @@
 import './App.css';
 import Player from './components/Player';
 import { Badge } from 'react-bootstrap';
-import TapeRecorder from './components/TapeRecorder';
-import HaroldBudd from './components/HaroldBudd';
-import { BlondeRedhead } from './components/BlondeRedhead';
-import HundredYearsBook from './components/HundredYearsBook';
-import KensingtonBook from './components/KensingtonBook';
 import CoffeeTable from './components/CoffeeTable';
 
 function App() {
